@@ -1,4 +1,4 @@
 # SimpleProject
 This is my first project on Github
 <br>
-Author = Vaibhav Kadam
+Author - Vaibhav Kadam
